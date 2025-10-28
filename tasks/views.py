@@ -10,4 +10,4 @@ class TaskViewSet(viewsets.ModelViewSet):
 def home(request):
     return HttpResponse("Welcome to the Task API! Visit /api/tasks/ to see tasks.")
 
-# Create your views here.
+
