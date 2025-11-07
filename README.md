@@ -74,7 +74,7 @@ Visit the app at:
 ------------------------------------------------------
 
 ## 🧠 Tech Used
-- **Python 3.x**
+- **Python 3.14.0**
 - **Django**
 - **Django REST Framework**
 - **SQLite3**
