@@ -71,8 +71,31 @@ Visit the app at:
 - Login with your superuser credentials  
 - Manage your **Task** entries (add, edit, delete) directly from the admin panel
 
-------------------------------------------------------
+-----------------------------------------------------------------------------------
 
+## Project Outputs
+
+**1.Project excution manage.py**
+
+![execute](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/execute.png)
+
+**2.Home Page**
+
+![home_page](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/home_page.png)
+
+**3.Task Page**
+
+![task_page](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/task_page.png)
+
+**4.Admin Task Page**
+
+![admin_task](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/admin_task.png)
+
+**5.Admin Edit Page**
+
+![admin_edit](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/admin_edit.png)
+
+------------------------------------------------------------------------------------
 ## 🧠 Tech Used
 - **Python 3.14.0**
 - **Django**
