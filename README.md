@@ -75,7 +75,7 @@ Visit the app at:
 
 ## Project Outputs
 
-**1.Project excution manage.py**
+**1.Project execution manage.py**
 
 ![execute](https://github.com/PavanSPK/python-django-to-do-api/blob/781218320000b2f0530c6e9204719e24a55011d6/output_screenshots/execute.png)
 
